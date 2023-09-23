@@ -4,7 +4,8 @@
     box-sizing: border-box;
 }
 body{
-   background-image: url(./imagenes/fondo\ dhelia.png);
+    
+   
 }
 header{
 background: rgb(193, 178, 240);
@@ -45,10 +46,11 @@ text-decoration: none;
     border: 2px solid #fff;
     display: none;
 }
+  /* portada nav-var*/
+
 /*responsive */
 @media (max-width: 600px){
     nav{
-        background: rgb(44, 41, 41);
         flex-direction: column;
     }
  .nav-enlace{
